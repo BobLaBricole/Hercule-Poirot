@@ -1,6 +1,5 @@
 from model import locusIn
 
-
 class Main:
     listLocusIn = []
 
